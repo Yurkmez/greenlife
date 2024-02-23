@@ -1,8 +1,8 @@
 
-<span style="color:blue">
+<p style="color:blue">
 # Сайт-визитка объекта недвижимости. 
 3-х страничный сайт c использованием библиотеки **React**. реализованный функционал: навигация по страницам - **BrowserRouter**,   обратная связь - почтовый сервис **EmaiJS**, контролируемый ввод для отправки данных (UseState), **видео, слайдер, Google Map**.
-</span>
+</p>
 ## Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ### Available Scripts
